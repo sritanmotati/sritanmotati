@@ -1,1 +1,1 @@
-Hey, I'm [Sritan](https://www.sritanmotati.com). I'm currently tackling DevOps at [a37](https://a37.ai). I'm excited about AI, product engineering, and infrastructure. Reach out at [sritan@a37.ai](mailto:sritan@a37.ai).
+Hey, I'm [Sritan](https://www.sritanmotati.com). I'm currently tackling DevOps at [a37](https://a37.ai). I'm excited about AI, product engineering, and infrastructure.
